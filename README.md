@@ -8,7 +8,7 @@ This repository contains research and analysis on the comparative performance of
 - RoBERTa (base)
 - RoBERTa (base-latest)
 
-**Keywords**: `sentiment-analysis`, `deep-learning`, `pytorch`, `autonomous-vehicles`, `tweets-analysis`, `nlp`, `bert`, `roberta`, `transformer`, `huggingface-transformers`, `machine-learning`, `multilabel-classification`, `multiclass-classification`, `neural-networks`, `optuna`, `bayesian-optimization`
+**Keywords**: `sentiment-analysis`, `deep-learning`, `pytorch`, `autonomous-vehicles`, `tweets-analysis`, `nlp`, `svm`, `lstm`, `bert`, `roberta`, `transformer`, `huggingface-transformers`, `machine-learning`, `multilabel-classification`, `multiclass-classification`, `neural-networks`, `optuna`, `bayesian-optimization`
 
 
 ## Method
