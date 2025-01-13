@@ -24,11 +24,11 @@ Our study aimed to:
 1. Compare the effectiveness of different models in multi-label and multi-class classification tasks
 2. Evaluate model performance in classifying AV-related tweet sentiments
 
+## Framework
+PyTorch
+
 ## Repository Organization
 The project is structured into the following directories:
-
-### Framework
-PyTorch
 
 ### Data Sets
 Contains tweet IDs for project replication:
