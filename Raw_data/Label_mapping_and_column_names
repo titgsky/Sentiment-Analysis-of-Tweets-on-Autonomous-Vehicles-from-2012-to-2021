@@ -1,0 +1,12 @@
+# Label mapping
+
+## Multiclass classification
+column name: Label_B_emotion
+0: negative
+1: neutral
+0: positive
+
+## Multilabel classification
+column name: Label_A2_negative	Label_A3_neutral	Label_A1_positive
+0 not negative, neutral or positive
+1 negative, neutral or positive
