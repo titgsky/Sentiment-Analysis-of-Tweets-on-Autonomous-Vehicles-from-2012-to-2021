@@ -27,6 +27,9 @@ Our study aimed to:
 ## Repository Organization
 The project is structured into the following directories:
 
+### Framework
+PyTorch
+
 ### Data Sets
 Contains tweet IDs for project replication:
 - Complete dataset (6 million tweets)
