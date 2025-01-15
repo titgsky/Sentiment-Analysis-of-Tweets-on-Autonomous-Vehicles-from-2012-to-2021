@@ -52,12 +52,16 @@ The project is structured into the following directories:
 
 ### Data Sets
 Contains tweet IDs for project replication:
-- Complete dataset (6 million tweets)
-- Filtered dataset (3 million tweets)
-- Manually labeled dataset (1,198 randomly selected tweet IDs) used for:
+- Complete dataset (6 million tweets) available on Zenodo (https://zenodo.org/records/14636994)
+- Filtered dataset (3 million tweets) available on Zenodo (https://zenodo.org/records/14636994)
+- Manually labeled dataset (1,198 randomly selected tweet IDs), available here, used for:
   - Training
   - Validation
   - Testing
+
+How to cite:
+
+Sauvayre, R., Fernandes Novo, M., Dehondt, M., Gable, J. S. M., Aalah, A., & Chauvière, C. (2025). Sentiment Analysis of Tweets on Autonomous Vehicles from 2012 to 2021 (V2.0.0). Zenodo. https://doi.org/10.5281/zenodo.14636994
 
 ### Emotional and Valence Dictionary
 - Resource used for textual data filtering
